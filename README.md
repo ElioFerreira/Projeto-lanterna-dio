@@ -1,3 +1,3 @@
-# dio-flashlight
-lanterna 
-Desafio dio: Construindo um app usando o sensor de movimento com React Native
+# Desafio DIO
+Construindo um app usando o sensor de movimento com React Native
+
