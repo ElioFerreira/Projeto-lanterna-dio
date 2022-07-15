@@ -1,2 +1,3 @@
-# Projeto-lanterna-dio
-Projeto de Aplicação Lanterna DIO 
+# dio-flashlight
+lanterna 
+Desafio dio: Construindo um app usando o sensor de movimento com React Native
